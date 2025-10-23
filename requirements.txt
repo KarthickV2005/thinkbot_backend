@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+nltk
+odfpy
+tqdm
+python-multipart
+python-docx
+PyPDF2
+aiofiles
+python-dotenv
+requests
